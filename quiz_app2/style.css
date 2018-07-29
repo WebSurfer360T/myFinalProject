@@ -1,0 +1,86 @@
+
+
+
+body {
+    background-color: #eeeeee;
+	margin-top: 10%;
+	font-weight: normal;
+	opacity: 1;
+	
+}
+
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #529189;
+    padding: 10px 50px 50px 50px;
+    border-radius: 0px;
+    border: 2px solid #cbcbcb;
+	font-weight: normal;
+	opacity: 1;
+    
+}
+
+.grid h1 {
+    font-family: "arial";
+    background-color: #57636e;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding: 2px 0px;
+    border-radius: 0px;
+	font-weight: normal;
+	opacity: 1;
+}
+
+#score {
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+	font-family: arial;
+	font-weight: normal;
+	opacity: 1;
+}
+
+.grid #question {
+    font-family: "arial";
+    font-size: 30px;
+    color: #fff;
+	opacity: 1;
+}
+
+.buttons {
+    margin-top: 30px;
+	opacity: 1;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+    background-color: #778897;
+    width: 250px;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #1D3C6A;
+    border-radius: 0px;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+	opacity: 1;
+}
+
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+    cursor: pointer;
+    background-color: #57636e;
+	opacity: 1;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+    outline: 0;
+	opacity: 1;
+}
+
+#progress {
+    color: #fff;
+    font-size: 18px;
+	font-family: arial;
+	opacity: 1;
+}
